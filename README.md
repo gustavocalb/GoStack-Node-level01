@@ -3,7 +3,7 @@
  
 <h3 align="center">🔍 Navegue por dentro do Readme </h3>
 <p align="center">
-  <a href="#rocket-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-licença">📝 Licença</a>
   <a href="#-creditos">⚡ Creditos</a>
