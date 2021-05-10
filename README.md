@@ -1,5 +1,5 @@
 <div align="center" width="450px">
-  <h2 font-size="50">Módulo de NodeJS - Nível 01</h2>
+  <h2 font-size="100">Módulo de NodeJS - Nível 01</h2>
  </div>
  
  &nbsp;
