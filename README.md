@@ -1,7 +1,7 @@
 <h1 align="center"> Módulo de NodeJS - nível 1 </h1>
  &nbsp;
  
-<p align="center">🔍 Navegue por dentro do Readme. </p>
+<h3 align="center">🔍 Navegue por dentro do Readme. </h3>
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
