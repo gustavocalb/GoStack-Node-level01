@@ -5,7 +5,7 @@
 <p align="center">
   <a href="#rocket-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">📝 Licença</a>
+  <a href="#-licença">📝 Licença</a>
   <a href="#-creditos">⚡ Creditos</a>
 </p>
 
