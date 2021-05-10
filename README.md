@@ -1,7 +1,5 @@
 <h1 align="center"> Módulo de NodeJS - nível 1 </h1>
  
- &nbsp;
-
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -12,7 +10,7 @@
 
 ## 🚀 Tecnologias
 
-Foram utilizandas as seguintes tecnologias:
+### Foram utilizandas as seguintes tecnologias:
 
 - [NodeJs](https://nodejs.org/en/)
 - [Insomnia](https://insomnia.rest/)
@@ -22,9 +20,12 @@ Foram utilizandas as seguintes tecnologias:
 
 Este é um dos módulos do Gostack, que tem como objetivo passar conhecimentos sobre NodeJs onde cria uma api de cadastros de projetos.
 
+
 ## 📝 Licença
 
+
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+
 
 ## ⚡ Creditos
 
